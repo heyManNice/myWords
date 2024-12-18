@@ -1,0 +1,14 @@
+{
+  "name": "myWords",
+  "uuid": "da01f993-48e1-4666-91f8-104cd156d82d",
+  "window":{
+    "entry":"src/index.html",
+    "visible":false,
+    "resizable":false,
+    "alwaysOnTop":true,
+    "transparent":true,
+    "decorations":false,
+    "skipTaskbar":true
+  },
+  "icon":"assets/logo.png"
+}
